@@ -77,6 +77,10 @@ contains the grid-based BMI/LMI search used to obtain the feasible Lyapunov matr
 - `plots_IV_B.m` — plots for the example in Section V.B
 - `find_LMI_IV_B.m` — auxiliary BMI/LMI search for the matrices used in Section V.B
 
+## License
+
+Copyright Andreas Katsanikakis 2026. See LICENSE.txt for licensing information.
+
 ## Acknowledgements
 
 Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
@@ -85,8 +89,13 @@ Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expres
 
 If you use these codes, please cite:
 
-A. Katsanikakis, N. Bekiaris-Liberis, and D. Bresch-Pietri,  
-"Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching or Delayed Switching Input,"  
-*IEEE Transactions on Automatic Control*.
+@unpublished{katsbekbrp,
+  title = {Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching or Delayed Switching Input},
+  author = {Katsanikakis, Andreas and Bekiaris-Liberis, Nikolaos and Bresch-Pietri, Delphine},
+  url = {https://hal.science/hal-05579119},
+  note = {preprint},
+  year = {2026},
+  month = September,
+}
 
 Full bibliographic information will be added once available.
