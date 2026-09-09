@@ -67,7 +67,7 @@ The file
 find_LMI_IV_B.m
 ```
 
-contains the grid-based BMI/LMI search used to obtain the feasible Lyapunov matrices employed in the numerical example of Section V.B. This script requires CVX and is not needed to run the simulation itself.
+contains the grid-based BMI/LMI search used to obtain the feasible Lyapunov matrices used in the numerical example of Section V.B. This script requires CVX and is not needed to run the simulation itself.
 
 ## Files
 
