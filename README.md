@@ -10,6 +10,7 @@ Preprint: [HAL](https://hal.science/hal-05579119)
 
 The paper considers predictor-feedback stabilization for two classes of switched linear systems: systems with state-dependent switching and a control input subject to a long constant delay, and systems in which the switching input itself is delayed.
 
+For a more detailed description of the codes and the repository structure, see [`READMEcod.pdf`](READMEcod.pdf).
 ## Requirements
 
 The simulation codes require:
@@ -78,6 +79,7 @@ contains the grid-based BMI/LMI search used to obtain the feasible Lyapunov matr
 - `Sim_IV_B.m` — simulation of the example in Section V.B
 - `plots_IV_B.m` — plots for the example in Section V.B
 - `find_LMI_IV_B.m` — auxiliary BMI/LMI search for the matrices used in Section V.B
+- `READMEcod.pdf` — detailed documentation of the implemented equations and numerical procedures
 
 ## License
 
