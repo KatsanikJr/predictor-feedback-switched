@@ -89,13 +89,15 @@ Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expres
 
 If you use these codes, please cite:
 
+```bibtex
 @unpublished{katsbekbrp,
   title = {Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching or Delayed Switching Input},
   author = {Katsanikakis, Andreas and Bekiaris-Liberis, Nikolaos and Bresch-Pietri, Delphine},
   url = {https://hal.science/hal-05579119},
   note = {preprint},
   year = {2026},
-  month = September,
+  month = {September},
 }
+```
 
 Full bibliographic information will be added once available.
