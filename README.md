@@ -6,7 +6,7 @@ The purpose of these MATLAB codes is to reproduce the numerical examples present
 
 by Andreas Katsanikakis, Nikolaos Bekiaris-Liberis, and Delphine Bresch-Pietri.
 
-The paper considers predictor-feedback stabilization for two classes of switched linear systems: systems with state-dependent switching and a delayed continuous control input, and systems in which the switching input itself is delayed.
+The paper considers predictor-feedback stabilization for two classes of switched linear systems: systems with state-dependent switching and a control input subject to a long constant delay, and systems in which the switching input itself is delayed.
 
 ## Requirements
 
