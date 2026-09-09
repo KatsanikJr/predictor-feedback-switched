@@ -1,11 +1,9 @@
-MATLAB codes to reproduce the numerical examples from Section V of the paper
-"Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching or Delayed Switching Input"
+MATLAB codes to reproduce the numerical examples from Section V of the paper "Predictor-Feedback Stabilization of Linear Switched Systems with State-Dependent Switching or Delayed Switching Input"
 by Andreas Katsanikakis, Nikolaos Bekiaris-Liberis, and Delphine Bresch-Pietri.
 
 Copyright (C) 2026 by Andreas Katsanikakis
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
-(CC BY-NC-ND 4.0).
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
