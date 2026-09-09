@@ -1,0 +1,4 @@
+MATLAB codes to reproduce the simulation results from Section 4 of the paper "Stabilization of Linear Switched Systems with Long Constant Input Delay via Average or Averaging Predictor Feedbacks" by Andreas Katsanikakis and Nikolaos Bekiaris-Liberis.
+Copyright (C) 2025 by Andreas Katsanikakis
+
+The project is licensed under  CC BY-NC-ND. For a copy of the license, see https://creativecommons.org/licenses/by-nc-nd/4.0/
