@@ -6,6 +6,8 @@ The purpose of these MATLAB codes is to reproduce the numerical examples present
 
 by Andreas Katsanikakis, Nikolaos Bekiaris-Liberis, and Delphine Bresch-Pietri.
 
+Preprint: [HAL](https://hal.science/hal-05579119)
+
 The paper considers predictor-feedback stabilization for two classes of switched linear systems: systems with state-dependent switching and a control input subject to a long constant delay, and systems in which the switching input itself is delayed.
 
 ## Requirements
@@ -86,6 +88,9 @@ Copyright Andreas Katsanikakis 2026. See LICENSE.txt for licensing information.
 Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 ## Cite this work
+
+The paper is available as a preprint on HAL:  
+[https://hal.science/hal-05579119](https://hal.science/hal-05579119)
 
 If you use these codes, please cite:
 
